@@ -1,3 +1,1 @@
-print ("Hello Git!")
-print ("dadasd")
-print ("kjashdkjasd")
+print ("New Hello Git!")
